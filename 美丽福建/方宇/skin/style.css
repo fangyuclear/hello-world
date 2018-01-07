@@ -1,0 +1,135 @@
+/*body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+button,
+textarea,
+p,
+blockquote,
+th,
+td {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #555;
+	font-size: 14px;
+	font-family: "SimSun", "宋体", Verdana, Arial, Helvetica, sans-serif;
+}
+
+td,
+th,
+caption {
+	font-size: 14px;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+	font-style: normal;
+	font-weight: normal;
+}
+
+a {
+	color: #2d374b;
+	text-decoration: none;
+}
+
+img {
+	border: none;
+	cursor: pointer;
+}
+
+ol,
+ul,
+li {
+	list-style: none;
+}
+
+input,
+textarea,
+select,
+button {
+	font: 14px Verdana, Helvetica, Arial, sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+
+/*----------------------------初始化------------------------------*/
+
+.clear {
+	clear: both;
+}
+
+.w1226 {
+	width: 1226px;
+	height: 100%;
+	margin: auto;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	background: rgba(0, 0, 0, 0.5);
+	z-index: 999;
+	box-shadow: 0 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+.weater {
+	float: right;
+}
+
+.weather1 {
+	margin-top: 8px;
+}
+
+#demo {
+	float: right;
+	margin-right: 100px;
+	color: #FFF;
+	font-size: 16px;
+}
+
+.nav {
+	margin-top: 18px;
+	margin-left: 100px;
+}
+
+.nav a {
+	display: inline-block;
+	color: #FFF;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	width: 127px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin-left: 20px;
+}*/

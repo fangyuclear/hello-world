@@ -1,0 +1,115 @@
+.banner{
+	height: 600px;
+	width: 1920px;
+	position: absolute;	
+	top: 0;
+	left: 50%;
+	margin-left: -960px;  
+	background: url(../images/1.jpg) center no-repeat;
+}
+.cont_top{
+	width: 1200px;
+	height: 1460px;
+	margin: 0 auto;
+    position: relative;
+    z-index: 99;
+    margin-top: 400px;
+    background: white;
+    border-top: 5px solid #00923f;
+  
+}
+.h1_1 {
+	height: 120px;
+	text-align: center;
+	padding-top: 40px;
+	margin-bottom: 20px;
+}
+
+.h1_1 h1 {
+	margin-bottom: 10px;
+	text-align: center;
+	    color: rgb(0, 146, 63);
+	font-size: 32px;
+	font-weight: bold;
+	font-family: "微软雅黑";
+}
+.h1 h1:before {
+	right: 0.5em;
+	margin-left: -42%;
+}
+
+.h1 h1:after {
+	left: 0.5em;
+	margin-right: -42%;
+}
+
+.h1 h1:before,
+.h1 h1:after {
+	content: "";
+	background: #ccc;
+	display: inline-block;
+	height: 1.2px;
+	position: relative;
+	width: 42%;
+	vertical-align: middle;
+}
+.h1 ,.h1_1 span {
+	display: block;
+	font-size: 16px;
+}
+.top_img{
+	width: 1024px;
+	height: 300px;
+	margin: 0 auto;
+	background: white;
+	padding: 20px;
+	box-sizing: border-box;
+	    border: 1px solid #e6e6e6;
+	  
+}
+.bot_img{
+	border-bottom: none;
+}
+.left_img{
+	width: 260px;
+	height: 260px;
+	float: left;
+   
+    
+	
+
+	
+}
+.left_img:hover img{
+	border: 4px solid #00923F;
+}
+.left_img img{
+	display: block;
+	width: 260px;
+	height: 260px;
+	margin:auto;
+	border-radius: 50%;
+	transition: 0.5s;
+	box-sizing: border-box;
+}
+.right_jiesao{
+	width: 600px;
+	height: 260px;
+	float: left;
+	
+	margin-left: 60px;
+	padding: 20px;
+	box-sizing: border-box;
+}
+.right_jiesao h2{
+	font-family: "微软雅黑";
+	 color: rgb(0, 146, 63);
+}
+
+.right_jiesao p{
+	margin-top: 10px;
+	line-height: 30px;
+	font-family: "微软雅黑";
+	text-indent: 2em;
+}
+
